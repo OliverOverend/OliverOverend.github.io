@@ -1,0 +1,19 @@
+title: Oliver Overend
+url: "https://OliverOverend.github.io"
+description: ""
+
+github_username: OliverOverend
+linkedin_username: ollyoverend
+
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+header_pages:
+  - posts.html
+
+minima:
+  skin: classic
+
+show_excerpts: False
