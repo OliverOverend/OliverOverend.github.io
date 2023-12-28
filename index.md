@@ -8,3 +8,4 @@
 layout: home
 ---
 
+[Link to a page]({{ site.baseurl }}{% link notes/test.md %})

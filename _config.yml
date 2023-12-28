@@ -14,6 +14,9 @@ header_pages:
   - posts.html
 
 minima:
-  skin: classic
+  skin: dark
 
 show_excerpts: False
+
+disqus:
+  shortname: oliveroverend-github-io
