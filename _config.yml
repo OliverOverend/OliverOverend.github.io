@@ -1,4 +1,4 @@
-title: null
+title: Olly's Notes
 url: "https://OliverOverend.github.io"
 description: ""
 
@@ -18,4 +18,5 @@ show_excerpts: False
 disqus:
   shortname: oliveroverend-github-io
 
-header_pages: null
+header_pages: 
+  - index.md
