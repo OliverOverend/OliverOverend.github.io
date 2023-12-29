@@ -8,4 +8,5 @@
 layout: home
 ---
 
-[Link to a page]({{ site.baseurl }}{% link notes/test.md %})
+This is a space for me to make notes whilst
+[working with the garage door open]({{ site.baseurl }}{% link notes/working with the garage door open.md %}).
