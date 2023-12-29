@@ -1,7 +1,7 @@
 ---
 layout: page
 title: test
-comments: true
+comments: 
 ---
 
 B

@@ -15,7 +15,7 @@
               "state": {
                 "file": "notes/test.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
