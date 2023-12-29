@@ -1,6 +1,6 @@
 _site/
 .DS_Store
 .jekyll-cache
-
 .jekyll-metadata
 .vscode/settings.json
+.obsidian
