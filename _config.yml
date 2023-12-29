@@ -17,3 +17,5 @@ show_excerpts: False
 
 disqus:
   shortname: oliveroverend-github-io
+
+header_pages: False
