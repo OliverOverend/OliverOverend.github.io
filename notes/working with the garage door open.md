@@ -3,5 +3,4 @@ layout: page
 title: test
 comments: false
 ---
-[[notes/test]]
-[test](test.md)
+Tries to solve [pitching out corrupts within](pitching%20out%20corrupts%20within.md).
