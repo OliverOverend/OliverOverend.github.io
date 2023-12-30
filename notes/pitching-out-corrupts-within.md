@@ -3,4 +3,6 @@ layout: post
 title: Pitching out corrupts within
 comments: false
 ---
-[this is a test](this-is-a-test.md)
+[this-is-another-test](this-is-another-test.md) using [space-to-dash](space-to-dash.md)
+
+[this is another test](this-is-another-test.md) using [dash-to-space](dash-to-space.md)
