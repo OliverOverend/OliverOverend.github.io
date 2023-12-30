@@ -10,4 +10,5 @@ _%>
 ---
 layout: post
 title:  <% modTitle %>
+comments: false
 ---
