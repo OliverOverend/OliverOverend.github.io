@@ -9,6 +9,5 @@ layout: home
 ---
 
 This is a space for me to make notes whilst
-[working with the garage door open]({{ site.baseurl }}{% link notes/working with the garage door open.md %}).
+[working with the garage door open](working-with-the-garage-door-open.md).
 
-[working with the garage door open](notes/working%20with%20the%20garage%20door%20open.md)

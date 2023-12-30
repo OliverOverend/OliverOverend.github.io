@@ -1,6 +1,5 @@
 ---
 layout: post
-title: pitching out corrupts within
-comments: true
+title: Pitching out corrupts within
+comments: false
 ---
-[Test me](Test%20me.md)
