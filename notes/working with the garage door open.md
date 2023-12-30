@@ -1,6 +1,6 @@
 ---
 layout: page
-title: test
+title: working with the garade door open
 comments: false
 ---
-Tries to solve [pitching out corrupts within](pitching%20out%20corrupts%20within.md).
+Tries to solve [pitching out corrupts within](pitching-out-corrupts-within.md).
