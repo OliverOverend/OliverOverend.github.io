@@ -9,5 +9,5 @@ layout: home
 ---
 
 This is a space for me to make notes whilst
-[working with the garage door open](notes/working-with-the-garage-door-open.md).
+[working with the garage door open](working-with-the-garage-door-open.md).
 

@@ -1,5 +1,5 @@
 ---
 layout: post
-title: <% modTitle %>
+title: {{title}}
 comments: true
 ---
