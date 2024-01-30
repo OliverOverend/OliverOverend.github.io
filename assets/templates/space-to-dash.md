@@ -9,6 +9,6 @@
 _%>
 ---
 layout: post
-title:  <% modTitle %>
+title: <% modTitle %>
 comments: false
 ---
