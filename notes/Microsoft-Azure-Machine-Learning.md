@@ -7,3 +7,4 @@ comments: false
 - [Network isolation with Azure Machine Learning registries](https://learn.microsoft.com/en-us/azure/machine-learning/how-to-registry-network-isolation)
 - [Share models, components, and environments across workspaces with registries](https://learn.microsoft.com/en-us/azure/machine-learning/how-to-share-models-pipelines-across-workspaces-with-registries)
 - [Set up MLOps with Azure DevOps](https://learn.microsoft.com/en-us/azure/machine-learning/how-to-setup-mlops-azureml)
+- [Network isolation with managed online endpoints](https://learn.microsoft.com/en-us/azure/machine-learning/concept-secure-online-endpoint)
