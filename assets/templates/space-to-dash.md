@@ -3,12 +3,12 @@
   if (title.startsWith("Untitled")) {
     title = await tp.system.prompt("Title");  
   } 
-  const modTitle = title.replace(/ /g, "-").toLowerCase()
+  const modTitle = title.replace(/ /g, "-")
 
   await tp.file.rename(modTitle)
 _%>
 ---
 layout: post
-title:  <% modTitle %>
+title: <% modTitle %>
 comments: false
 ---
