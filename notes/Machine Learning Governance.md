@@ -1,0 +1,1 @@
+https://datatonic.com/insights/responsible-ai-data-model-cards/
