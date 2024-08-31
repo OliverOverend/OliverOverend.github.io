@@ -1,6 +1,0 @@
-- Inability to deploy multiple registered models to a deployment
-- Inability to get the image build status when building a custom environment in a CICD pipeline
-- Inability to see the managed endpoint quota limits in a UI
-- Inability to downgrade SKU without causing downtime
-- Scaling out instances is rather slow, therefore auto-scaling rules need to be preemptive. Downtime is to expected in certain outage scenarios or in unexpected surges of demand.
-- When the outbound access is secured, can we access a storage account?
