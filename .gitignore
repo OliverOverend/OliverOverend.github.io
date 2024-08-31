@@ -2,6 +2,6 @@ _site/
 .DS_Store
 .jekyll-cache
 .jekyll-metadata
-.vscode/settings.json
+.vscode/*
 .obsidian
 fleeting/
