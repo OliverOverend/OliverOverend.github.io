@@ -3,4 +3,4 @@ layout: post
 title: Machine Learning Governance
 comments: false
 ---
-https://datatonic.com/insights/responsible-ai-data-model-cards/
+- [Responsible AI: The Role of Data and Model Cards](https://datatonic.com/insights/responsible-ai-data-model-cards/)

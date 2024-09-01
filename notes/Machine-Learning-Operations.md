@@ -7,6 +7,5 @@ comments: false
 - [Minimizing real-time prediction serving latency in machine learning](https://cloud.google.com/architecture/minimizing-predictive-serving-latency-in-machine-learning)
 - [Introduction to the Azure ML-Ops Project Accelerator](https://microsoft.github.io/azureml-ops-accelerator/)
 - [ML Ops Github List](https://github.com/stars/OliverOverend/lists/ml-ops/)
-
-https://ml-ops.org/content/phase-zero
-https://ml-ops.org/content/mlops-stack-canvas
+- [Phase Zero](https://ml-ops.org/content/phase-zero)
+- [MLOps Stack Canvas](https://ml-ops.org/content/mlops-stack-canvas)

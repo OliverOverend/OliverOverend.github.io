@@ -3,4 +3,4 @@ layout: post
 title: Agile
 comments: false
 ---
-https://agilemanifesto.org/iso/en/principles.html
+- [Principles behind the Agile Manifesto](https://agilemanifesto.org/iso/en/principles.html)

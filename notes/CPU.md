@@ -3,4 +3,4 @@ layout: post
 title: CPU
 comments: false
 ---
-https://cpu.land/
+- [Putting the “You” in CPU](https://cpu.land/)
