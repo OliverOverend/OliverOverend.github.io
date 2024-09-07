@@ -8,8 +8,5 @@ comments: false
 - [LIME plots](https://christophm.github.io/interpretable-ml-book/lime.html)
 - [ICE plots](https://christophm.github.io/interpretable-ml-book/ice.html)
 - [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
-
-
-https://distill.pub/2019/visual-exploration-gaussian-processes
-
-https://www.oreilly.com/content/efficient-machine-learning-inference/
+- [A Visual Exploration of Gaussian Processes](https://distill.pub/2019/visual-exploration-gaussian-processes)
+- https://www.oreilly.com/content/efficient-machine-learning-inference/
