@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Software Development
+title: Software development
 comments: false
 ---
 - [The real 10x developer makes their whole team better](https://stackoverflow.blog/2024/06/19/the-real-10x-developer-makes-their-whole-team-better/)

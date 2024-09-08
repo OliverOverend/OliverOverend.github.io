@@ -12,3 +12,5 @@ layout: post
 title: <% title %>
 comments: false
 ---
+
+<!--more-->
