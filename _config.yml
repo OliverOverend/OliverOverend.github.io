@@ -20,3 +20,4 @@ disqus:
 
 header_pages: 
   - index.md
+  - posts.html
