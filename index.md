@@ -8,5 +8,7 @@ My interests include [Git](notes/Git.md), [Machine Learning](notes/Machine-Learn
 How did I make this website?
 
 https://github.com/jekyll/minima
+
 https://github.com/academicpages/academicpages.github.io
+
 https://github.com/academicpages/academicpages.github.io
