@@ -7,4 +7,4 @@ https://github.com/jekyll/minima
 
 https://github.com/academicpages/academicpages.github.io
 
-excerpt_separator: <!--more-->
+<!--more-->
