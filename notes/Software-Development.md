@@ -8,3 +8,7 @@ comments: false
 - [Refactoring.Guru](https://refactoring.guru/)
 - [Putting the “You” in CPU](https://cpu.land/)
 - [Principles behind the Agile Manifesto](https://agilemanifesto.org/iso/en/principles.html)
+
+https://dev.to/n3wt0n/azure-artifacts-vs-build-artifacts-vs-pipeline-artifacts-difference-explained-1k24
+
+https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/
