@@ -12,3 +12,10 @@ comments: false
 https://dev.to/n3wt0n/azure-artifacts-vs-build-artifacts-vs-pipeline-artifacts-difference-explained-1k24
 
 https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/
+https://worrydream.com/LadderOfAbstraction/
+
+https://worrydream.com/LearnableProgramming/
+
+https://worrydream.com/LadderOfAbstraction/
+
+https://code.visualstudio.com/docs/python/jupyter-support-py
