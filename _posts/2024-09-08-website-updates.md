@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How I Update This Website
-comments: false
+comments: true
 ---
 
 Generally I use [Obsidian](https://obsidian.md/) to update markdown files and [Visual Studio Code](https://code.visualstudio.com/) for anything else. [Obsidian-Git](https://github.com/Vinzent03/obsidian-git) allows me to push changes with `Git: Create Backup` using my own custom hotkey `Command-S`.
